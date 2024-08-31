@@ -1,4 +1,3 @@
 -👋 Hi, I’m @nonekoy
--👀 newbie in coding
--🌱 I’m currently learning python and javascript
+-🌱 I’m currently learning python and Go
 -📫 How to reach me (only github for now)
