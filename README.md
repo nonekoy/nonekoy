@@ -5,7 +5,7 @@ I'm a passionate developer who loves creating, learning, and sharing code. Welco
 ## About Me
 - 🌱 I’m currently learning new technologies and improving my skills.
 - 💼 I’m open to collaborating on exciting projects.
-- 📫 How to reach me: [Your Email](mailto:viniciu.pereira.gomes@hotmail.com)
+- 📫 How to reach me: [My Email](mailto:vinicius.pereira.gomes@hotmail.com)
 - ⚡ Fun fact: I enjoy solving puzzles and turn-based RPGs.
 
 ## GitHub Stats
@@ -22,11 +22,11 @@ I'm a passionate developer who loves creating, learning, and sharing code. Welco
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 ## Projects
-- [Project 1](https://github.com/Achei2025/PlataformaWeb): The Achei! platform is a digital system designed to help citizens and law enforcement track and recover stolen items. It allows users to register lost belongings with detailed descriptions, images, and incident locations in a collaborative database. Additionally, law enforcement officers have exclusive access to consult and update records, send notifications, and cross-check information to improve the chances of recovering stolen objects.
+- [Achei!](https://github.com/Achei2025/PlataformaWeb): The Achei! platform is a digital system designed to help citizens and law enforcement track and recover stolen items. It allows users to register lost belongings with detailed descriptions, images, and incident locations in a collaborative database. Additionally, law enforcement officers have exclusive access to consult and update records, send notifications, and cross-check information to improve the chances of recovering stolen objects.
 - [Project 2](https://github.com/nonekoy/project2): A brief description of what this project does.
 - [Project 3](https://github.com/nonekoy/project3): A brief description of what this project does.
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-de-carvalho-5b8394220/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-de-carvalho-5b8394220/)
 
 Thank you for visiting my profile!
