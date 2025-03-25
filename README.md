@@ -1,4 +1,4 @@
-# Hi there, I'm nonekoy! 👋
+# Hi there, I'm Vinícius! 👋
 
 I'm a passionate developer who loves creating, learning, and sharing code. Welcome to my GitHub profile!
 
